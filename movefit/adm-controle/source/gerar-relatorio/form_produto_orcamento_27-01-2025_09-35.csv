@@ -1,0 +1,3 @@
+id,visualizado,id_produto,nome,telefone,email,cidade,estado,data_cadastro,data_alteracao
+6,1,2,Teste,teste,teste@teste.com.br,,,"2025-01-27 09:32:06","2025-01-27 09:34:36"
+5,0,1,Teste,teste,teste@teste.com.br,,,"2025-01-27 09:30:22","2025-01-27 09:30:22"
